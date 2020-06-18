@@ -1,0 +1,13 @@
+{
+  "name": "types-calidation",
+  "version": "1.0.0",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lisatassone/types-calidation.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@types/react": "^16.9.38"
+  }
+}
